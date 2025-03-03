@@ -12,9 +12,7 @@ VISTA AGRIWINGS is a modern **agricultural drone management** website designed t
 ## 🛠 Tech Stack:  
 - **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth animations).  
 - **Backend:** Node.js, Express.js.  
-- **Database:** MongoDB.  
-- **Cloud & Storage:** AWS S3 for image storage.  
-- **Authentication:** Firebase/Auth0 for secure login.  
+- **Database:** MongoDB.   
 
 ## 🎯 Goals:  
 - Improve **crop health** monitoring.  
