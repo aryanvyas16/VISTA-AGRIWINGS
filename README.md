@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **VISTA AGRIWINGS 🌾🚁**  
 
 VISTA AGRIWINGS is a modern **agricultural drone management** website designed to revolutionize precision farming. This platform enables farmers to **monitor, map, and analyze** their fields using cutting-edge drone technology.  
