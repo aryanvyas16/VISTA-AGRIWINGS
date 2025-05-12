@@ -11,16 +11,12 @@ VISTA AGRIWINGS is a modern **agricultural drone management** website designed t
 - 💰 **Cost & Yield Optimization** – Data-driven insights for better productivity.  
 
 ## 🛠 Tech Stack:  
-- **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth animations).  
-- **Backend:** Node.js, Express.js.  
-- **Database:** MongoDB.   
+- **Frontend:** React.js, Tailwind CSS
+  
 
 ## 🎯 Goals:  
 - Improve **crop health** monitoring.  
 - Reduce **manual effort** in large-scale farming.  
 - Increase **agricultural efficiency** with AI-powered insights. 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> ee7c9ec (First Commit)
