@@ -1,3 +1,5 @@
+import { photos } from "../assets/photos";
+
 export const features = [
     {
       id: "0",
@@ -163,7 +165,7 @@ export const features = [
       id: "0",
       name: "Ramesh Patel",
       role: "Progressive Farmer – Gujarat",
-      avatarUrl: "/src/public/testi1.png",
+      avatarUrl: photos.img1,
       comment:
         "Using the spray drone has saved me hours of manual labor. I can now spray my entire cotton field in just one-third the time. It’s efficient, accurate, and eco-friendly!",
     },
