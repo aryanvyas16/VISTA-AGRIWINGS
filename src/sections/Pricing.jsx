@@ -41,14 +41,14 @@ const Pricing = () => {
 
             <div className="pricing-bg">
               <img
-                src="/public/bg-outlines.svg"
+                src="/src/public/bg-outlines.svg"
                 width={960}
                 height={380}
                 alt="outline"
                 className="relative z-2"
               />
               <img
-                src="/public/bg-outlines-fill.png"
+                src="/src/public/bg-outlines-fill.png"
                 width={960}
                 height={380}
                 alt="outline"
@@ -137,7 +137,7 @@ const Pricing = () => {
                       className="relative flex items-center gap-5"
                     >
                       <img
-                        src={"/public/check.png"}
+                        src={"/src/public/check.png"}
                         alt="check"
                         className="size-10 object-contain"
                       />

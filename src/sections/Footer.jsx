@@ -35,7 +35,7 @@ const Footer = () => {
         <div className="flex-1">
           <div className="mb-4">
             <img
-              src="/public/try2.svg"
+              src="/src/public/try2.svg"
               alt="Vista Agriwings Logo"
               className="w-36 h-auto"
             />

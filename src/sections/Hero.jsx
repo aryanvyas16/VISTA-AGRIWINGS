@@ -19,12 +19,12 @@ const Hero = () => {
                     We aim to provide agricultural services through drone technology by facilitating spraying using unmanned aerial vehicles.
                     </p>
                     <LinkScroll to="features" offset={-100} spy smooth >
-                        <Button icon="/public/zap.svg">Try it now</Button>
+                        <Button icon="/src/public/zap.svg">Try it now</Button>
                     </LinkScroll> 
 
                 </div>
                 <div className='absolute -top-32 left-[calc(50%-340px)] w-[1230px]  pointer-events-none hero-img_res'>
-                    <img src= "/public/hero10.svg" 
+                    <img src= "/src/public/hero10.svg" 
                     className= "size-1230 max-lg:h-auto"  
                     alt = "hero" 
                     />

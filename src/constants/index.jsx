@@ -1,23 +1,23 @@
 export const features = [
     {
       id: "0",
-      icon: "/public/feature-1.png",
+      icon: "/src/public/feature-1.png",
       caption: "Advanced Cooling",
       title: "Advanced Cooling for extended flight",
       text: "Say goodbye to overheating issues with our state-of-the-art cooling system. This ensures your drone operates at peak performance, even in the hottest conditions.",
       button: {
-        icon: "/public/magic2.svg",
+        icon: "/src/public/magic2.svg",
         title: "Watch the demo",
       },
     },
     {
       id: "1",
-      icon: "/public/feature-2.png",
+      icon: "/src/public/feature-2.png",
       caption: "Dynamic Range and Stability",
       title: "Experience Unmatched Stability",
       text: "Our drone is equipped with cutting-edge dynamic range technology, allowing it to perform flawlessly in various environmental conditions.  ",
       button: {
-        icon: "/public/docs.svg",
+        icon: "/src/public/docs.svg",
         title: "Read the docs",
       },
     },
@@ -26,22 +26,22 @@ export const features = [
   export const details = [
     {
       id: "0",
-      icon: "/public/detail-1.png",
+      icon: "/src/public/detail-1.png",
       title: "GPS-Guided Precision",
     },
     {
       id: "1",
-      icon: "/public/detail-2.png",
+      icon: "/src/public/detail-2.png",
       title: "High Payload Capacity",
     },
     {
       id: "2",
-      icon: "/public/detail-3.png",
+      icon: "/src/public/detail-3.png",
       title: "Auto Takeoff and Landing",
     },
     {
       id: "3",
-      icon: "/public/detail-4.png",
+      icon: "/src/public/detail-4.png",
       title: "Swappable Battery System",
     },
   ];
@@ -123,8 +123,8 @@ export const features = [
         "Quick recharge time",
         "Ideal for hilly terrains",
       ],
-      icon: "/public/circle.svg",
-      logo: "/public/planmini.png",
+      icon: "/src/public/circle.svg",
+      logo: "/src/public/planmini.png",
     },
     {
       id: "1",
@@ -138,8 +138,8 @@ export const features = [
         "Strong wind resistance",
         "Advanced flight stability",
       ],
-      icon: "/public/triangle.svg",
-      logo: "/public/planpro.png",
+      icon: "/src/public/triangle.svg",
+      logo: "/src/public/planpro.png",
     },
     {
       id: "2",
@@ -153,8 +153,8 @@ export const features = [
         "Auto-return safety mode",
         "Multi-crop adaptability",
       ],
-      icon: "/public/hexagon.svg",
-      logo: "/public/planmid.png",
+      icon: "/src/public/hexagon.svg",
+      logo: "/src/public/planmid.png",
     },
   ];
   
@@ -163,7 +163,7 @@ export const features = [
       id: "0",
       name: "Ramesh Patel",
       role: "Progressive Farmer – Gujarat",
-      avatarUrl: "/public/testi1.png",
+      avatarUrl: "/src/public/testi1.png",
       comment:
         "Using the spray drone has saved me hours of manual labor. I can now spray my entire cotton field in just one-third the time. It’s efficient, accurate, and eco-friendly!",
     },
@@ -171,7 +171,7 @@ export const features = [
       id: "1",
       name: "Meena Devi",
       role: "Organic Vegetable Grower – Rajasthan",
-      avatarUrl: "/public/testi5.png",
+      avatarUrl: "/src/public/testi5.png",
       comment:
         "As an organic farmer, precision is everything. This drone helps me apply natural pesticides exactly where needed, with no wastage. It’s been a game-changer for my farm.",
     },
@@ -179,7 +179,7 @@ export const features = [
       id: "2",
       name: " Harbhajan Singh",
       role: "Sugarcane Farmer & Krishi Vigyan Kendra Member – Punjab",
-      avatarUrl: "/public/testi3.png",
+      avatarUrl: "/src/public/testi3.png",
       comment:
         "I was initially hesitant, but after training, I found it very easy to use. It covers more area in less time, and the yield quality has improved. My fellow farmers are now also interested!",
     },
@@ -187,7 +187,7 @@ export const features = [
       id: "3",
       name: "Anil Reddy",
       role: "Large-Scale Paddy Farmer – Telangana",
-      avatarUrl: "/public/testi4.png",
+      avatarUrl: "/src/public/testi4.png",
       comment:
         "The drone’s performance during peak season was outstanding. No more worrying about labor shortages or uneven spraying. Truly worth the investment.",
     },
@@ -195,7 +195,7 @@ export const features = [
       id: "4",
       name: "Savita Yadav",
       role: "Floriculture Specialist – Maharashtra",
-      avatarUrl: "/public/testi6.png",
+      avatarUrl: "/src/public/testi6.png",
       comment:
         "Maintaining delicate flower crops is tough. This drone sprays evenly without damaging plants, and I’ve seen a noticeable reduction in pest attacks. Very happy with the results.",
     },
@@ -203,7 +203,7 @@ export const features = [
       id: "5",
       name: "Mohan Lal Verma",
       role: "Horticulture Officer & Mango Orchard Owner – Uttar Pradesh",
-      avatarUrl: "/public/testi2.png",
+      avatarUrl: "/src/public/testi2.png",
       comment:
         "Managing a large mango orchard used to take a lot of effort during spraying season. With the drone, the coverage is uniform and quick. It’s boosted both productivity and crop health.",
     },
@@ -370,25 +370,25 @@ export const features = [
     {
       id: "0",
       title: "x",
-      icon: "/public/x.svg",
+      icon: "/src/public/x.svg",
       url: "#",
     },
     {
       id: "1",
       title: "LinkedIn",
-      icon: "/public/linkedin2.svg",
+      icon: "/src/public/linkedin2.svg",
       url: "#",
     },
     {
       id: "2",
       title: "Instagram",
-      icon: "/public/instagram.svg",
+      icon: "/src/public/instagram.svg",
       url: "#",
     },
     {
       id: "3",
       title: "Facebook",
-      icon: "/public/facebook2.svg",
+      icon: "/src/public/facebook2.svg",
       url: "#",
     },
   ];

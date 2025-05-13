@@ -37,7 +37,7 @@ Co-Founder of Vista Agriwings
 
                   {/* Your image here */}
                   <img
-                    src="/public/sir1.jpg" // Replace with your image
+                    src="/src/public/sir1.jpg" // Replace with your image
                     width={700}
                     height={300}
                     alt="hero"
