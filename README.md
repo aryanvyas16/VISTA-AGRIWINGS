@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # **VISTA AGRIWINGS 🌾🚁**  
 
 VISTA AGRIWINGS is a modern **agricultural drone management** website designed to revolutionize precision farming. This platform enables farmers to **monitor, map, and analyze** their fields using cutting-edge drone technology.  
@@ -11,25 +11,12 @@ VISTA AGRIWINGS is a modern **agricultural drone management** website designed t
 - 💰 **Cost & Yield Optimization** – Data-driven insights for better productivity.  
 
 ## 🛠 Tech Stack:  
-- **Frontend:** React.js, Tailwind CSS, Framer Motion (for smooth animations).  
-- **Backend:** Node.js, Express.js.  
-- **Database:** MongoDB.   
+- **Frontend:** React.js, Tailwind CSS
+  
 
 ## 🎯 Goals:  
 - Improve **crop health** monitoring.  
 - Reduce **manual effort** in large-scale farming.  
 - Increase **agricultural efficiency** with AI-powered insights. 
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> ee7c9ec (First Commit)
